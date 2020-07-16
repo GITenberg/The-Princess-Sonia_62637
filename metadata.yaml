@@ -1,0 +1,31 @@
+_repo: The-Princess-Sonia_62637
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gibson, Charles Dana
+    alias: Gibson, C. D. (Charles Dana)
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '26456'
+    url: http://www.gutenberg.org/2009/agents/26456
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dana_Gibson
+creator:
+  author:
+    agent_name: Magruder, Julia
+    birthdate: 1854
+    deathdate: 1907
+    gutenberg_agent_id: '31714'
+    url: http://www.gutenberg.org/2009/agents/31714
+description: ''
+gutenberg_issued: '2020-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Princess Sonia
+url: http://www.gutenberg.org/ebooks/62637
